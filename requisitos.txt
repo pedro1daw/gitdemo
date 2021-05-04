@@ -1,3 +1,4 @@
 python>=2
 php>=7
 mysql>=5.0
+git>1
